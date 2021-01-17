@@ -14,6 +14,8 @@
   
 
  - ⚡  I like to make connections so that I can explore and learn various Technology.  
+ 
+ ## Fun Fact: Don't let them know you too much
   
 
 <br/>  
