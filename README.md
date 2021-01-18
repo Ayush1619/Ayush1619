@@ -4,7 +4,7 @@
 
   
 
-### <div align="center">Hey there, I am Ayush Anand, a webapp  developer 👨‍💻.</div>  
+### <div align="center">Hey there, I am Ayush Anand, Full Stack developer 👨‍💻.</div>  
   
 
 - 🔭 I’m exploring  various Technology Stack🤫  
