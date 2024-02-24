@@ -7,13 +7,13 @@
 ### <div align="center">Hey there, I am Ayush Anand, Full Stack developer 👨‍💻.</div>  
   
 
-- 🔭 I’m exploring  various Technology Stack🤫  
+- 🔭 I’m exploring various Technology Stack🤫  
   
 
-- 🌱 I’m currently learning Back-end development.  
+- 🌱  Passionate Software Engineer crafting code and innovation.
   
 
- - ⚡  I like to make connections so that I can explore and learn various Technology.  
+ - ⚡ Electric problem solver
  
  ## Fun Fact: Don't let them know you too much
   
